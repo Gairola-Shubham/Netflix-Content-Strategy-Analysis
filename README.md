@@ -165,9 +165,3 @@ jupyter notebook
 - Apply machine learning for prediction
 - Perform deeper genre and country analysis
 
----
-
-## Author
-
-Shubham Gairola  
-B.Tech Computer Science (Data Science)
